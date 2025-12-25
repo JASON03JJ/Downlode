@@ -1,3 +1,0 @@
-Url:https://github.com/JASON03JJ/Downlode/releases/download/Ai/Start.py https://github.com/JASON03JJ/Downlode/releases/download/Ai/Start.bat
-Pip:SpeechRecognition, pyttsx3, requests, pyautogui, comtypes, pycaw, PyAudio
-Name: Ai(You need Ollama/llava model)
